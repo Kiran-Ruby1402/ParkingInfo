@@ -1,0 +1,2 @@
+class ParkingDetail < ApplicationRecord
+end
